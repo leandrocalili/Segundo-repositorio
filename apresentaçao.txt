@@ -1,2 +1,10 @@
  nome Jonatan 
 idade 28 anos
+
+
+ 
+ Ele acorda se prepara para o trabalho, e vai trabalhar
+
+ Logo depois ele volta do trabalho, organiza algumas coisas em casa, faz exercicio e se prepara para a aula
+
+ logo depois ele se prepara para dormir 
